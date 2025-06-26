@@ -1,4 +1,4 @@
-# -MACHINE-LEARNING-MODEL-IMPLEMENTATION
+# MACHINE-LEARNING-MODEL-IMPLEMENTATION
 
 COMPANY: CODTECH IT SOLUTIONS
 
@@ -27,3 +27,4 @@ MENTOR : NEELA SANTHOSH
   Through this project, I was able to better understand the entire cycle of a machine learning problem, including data preprocessing, model training, evaluation, and deployment-like testing. It also helped me understand how crucial feature extraction, data quality, and algorithm selection are.
   Overall, creating this spam classifier improved my knowledge of Python and machine learning while also providing me with a tangible illustration of the practical uses of AI. It's a brief but impactful illustration of how machine learning can contribute to safer and less cluttered digital communication.
 
+OUTPUT: ![Image](https://github.com/user-attachments/assets/32ac9b3a-2cbe-4fad-bda8-bbb69154e20d)
